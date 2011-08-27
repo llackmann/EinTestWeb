@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="/EinTestEJB"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.MYECLIPSE_JERSEY_1_4_JAXB"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.MYECLIPSE_JERSEY_1_4_CORE"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.MYECLIPSE_JERSEY_1_4_SERVER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.MYECLIPSE_JERSEY_1_4_CLIENT"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.MYECLIPSE_JERSEY_1_4_JACKSON"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.MYECLIPSE_JERSEY_1_4_JSON"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.MYECLIPSE_JERSEY_1_4_ATOM"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.MYECLIPSE_JERSEY_1_4_FASTINFOSET"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.ws.MYECLIPSE_JERSEY_1_4_MAIL"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.icefaces.MYECLIPSE_ICEfaces_Core_JSF2_200"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.icefaces.MYECLIPSE_ICEfaces_Ace_JSF2_200"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.icefaces.MYECLIPSE_ICEfaces_Ice_JSF2_200"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.icefaces.MYECLIPSE_ICEfaces_Push_JSF2_200"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
